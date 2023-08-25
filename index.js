@@ -7,3 +7,4 @@ if(c > 10){
 }else{
     console.log('sorry, not sorry');
 }
+console.log('My name is Goke')
